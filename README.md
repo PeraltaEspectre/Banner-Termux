@@ -1,19 +1,16 @@
-# baneredielsontube
-
-inscreva-se no nosso canal
-https://www.youtube.com/c/edielsontube
-
-COMO INSTALA
-cd baneredielsontube
-
-AGORA MUDE O NOME INSCREVA-SE QUE ESTA EM AMARELO TROQUE PARA SEU NICK
-nano baner.sh
-DEPOIS CTR X e aperte Y e ENTER para salva o arquivo
-
+cd Banner-Termux
+<br><br>
+AGORA MUDE O NOME WDS PROJECTS QUE ESTA EM AMARELO TROQUE PARA SEU NICK
+<br><br>
+nano banner.sh
+<br>
+DEPOIS CTRL X e aperte Y e ENTER para salvar o arquivo
+<br><br>
 AGORA O PROXIMO COMANDO
-bash baner.sh
-
-ESPERE TERMINA DE INSTALA TUDO
-pronto so feche o termux e abra novamente
+<br>
+bash banner.sh
+<br><br>
+ESPERE TERMINAR DE INSTALAR TUDO
+pronto só fechar o termux e abrir ele novamente
 
 
