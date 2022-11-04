@@ -11,6 +11,7 @@ AGORA O PROXIMO COMANDO
 bash banner.sh
 <br><br>
 ESPERE TERMINAR DE INSTALAR TUDO
+<br>
 pronto só fechar o termux e abrir ele novamente
 
 
