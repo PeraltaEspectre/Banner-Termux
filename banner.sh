@@ -1,5 +1,3 @@
-#CANAL EDIELSON TUBE
-
 cd /data/data/com.termux/files/usr/etc
 rm -rf motd
 cd ~/Banner-Termux
