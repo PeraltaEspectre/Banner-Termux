@@ -15,9 +15,4 @@ GREEN="\033[1;32m"
 RED='\033[1;31m'
 NC='\033[0m'
 
-#TODOS DIREITOS RESEVARDO AO CANAL EDIELSONTUBE
-
 figlet -c -f slant -t 'INSCREVA-SE' | lolcat
-
-#ja se inscreveu no canal
-#https://youtube.com/c/edielsontube
