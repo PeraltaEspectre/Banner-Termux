@@ -2,7 +2,7 @@ cd Banner-Termux
 <br><br>
 AGORA MUDE O NOME WDS PROJECTS QUE ESTA EM AMARELO TROQUE PARA SEU NICK
 <br><br>
-nano banner.sh
+nano bash.bashrc
 <br><br>
 DEPOIS CTRL X e aperte Y e ENTER para salvar o arquivo
 <br><br>
